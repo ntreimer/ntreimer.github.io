@@ -4,11 +4,16 @@ body {
   margin: 10% 10%;
 }
 
+.top {
+  text-align: center
+}
 .subheader {
-  Text-align: center;
+  text-align: center;
   text-transform: uppercase;
   border-top: 1px solid white;
-  background-color: 
+  border-bottom: 1px solid white;
+  background-color: gray;
+  pad-left: 
 }
 
 h1 {
